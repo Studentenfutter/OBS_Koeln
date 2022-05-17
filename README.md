@@ -1,6 +1,6 @@
 # How to share your commonly frequented biking areas
-[English](https://github.com/Studentenfutter/OBS_Koeln/edit/main/README.md#English)
-[Deutsch](https://github.com/Studentenfutter/OBS_Koeln/edit/main/README.md#Deutsch)
+[English](https://github.com/Studentenfutter/OBS_Koeln/README.md#English)
+[Deutsch](https://github.com/Studentenfutter/OBS_Koeln/README.md#Deutsch)
 
 # English
 1. Open the Website https://umap.openstreetmap.fr/en/map/new/#13/50.9381/6.9782 (if prompted click "Create a map")
